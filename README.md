@@ -66,3 +66,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Build a movie search app using React (with hooks)
+The first thing you could start with is building a movie search app using React. Below is an image of how the final app will look like:
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--INXm52ys--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-media-1.freecodecamp.org/images/kbYsxsxb2D7mBhdlEmUrpMhRmOcQoR79vtT1" 
+width="678.391"
+height="401.094"
+/>
+
+## What you will learn
+Building this application you will improve your React Skills using the relatively new Hooks API. The example projects make use of React components, many hooks, an external API, and of course some styling via CSS.
+
+## Tech Stack & Features
+* React with Hooks
+* create-react-app
+* JSX
+* CSS
+
+Using no classes this project gives you a perfect entry point into functional react and will definitely help you in 2020. You can find the example project here: https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/
+Follow along with the tutorial or give it your own flavor!
